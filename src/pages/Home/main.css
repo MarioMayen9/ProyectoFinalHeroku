@@ -1,0 +1,20 @@
+.btn{
+    background-color: #D4ECDD;
+    color: black;
+    border-color: #D4ECDD;
+}
+
+.btn-contenedor {
+    display: flex;
+    justify-content: center;
+    padding-top: 5%;
+  }
+
+.btn-contenedor{
+    
+}
+
+#btn-login{
+    padding-right: 30%;
+}
+

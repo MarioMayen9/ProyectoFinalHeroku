@@ -1,0 +1,11 @@
+#container-row{
+    margin-top: 8%;
+}
+#container-row2{
+    margin-top: 14%;
+}
+
+#container-col{
+    display: flex;
+    justify-content: center;
+}

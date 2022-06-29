@@ -1,0 +1,15 @@
+#card-login{
+    border-radius: 10px;
+    background-color: silver;
+}
+
+#button-login{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+#card-content{
+    margin-top: 7%;
+}
